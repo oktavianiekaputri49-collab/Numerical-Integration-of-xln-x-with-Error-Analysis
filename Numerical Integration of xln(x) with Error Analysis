@@ -1,0 +1,25 @@
+Numerical Integration of xln(x) with Error Analysis
+Project Overview
+This project focuses on the numerical integration of the function f(x) = xln(x) and the comparison between the approximate integral and the exact analytical solution. The calculation was performed by evaluating the function at multiple points across the integration interval and applying numerical techniques to estimate the integral value.
+A key component of this project is error analysis, where the numerical approximation is compared against the exact integral value. This comparison helps assess the accuracy and effectiveness of numerical methods in solving integration problems when analytical solutions may be difficult or impractical to obtain.
+
+Tools Used
+Microsoft Excel
+Numerical Integration Techniques
+Error Analysis
+Mathematical Computation
+Skills Demonstrated
+Numerical Integration
+Error Analysis
+Mathematical Modeling
+Spreadsheet Computation
+Quantitative Analysis
+Applied Mathematics
+Key Learning Outcomes
+Understanding numerical integration concepts.
+Comparing approximate and exact integral values.
+Evaluating computational accuracy through error analysis.
+Applying mathematical methods using spreadsheet tools.
+Strengthening analytical and problem-solving skills.
+
+#Statistics #NumericalIntegration #ErrorAnalysis #Excel #DataAnalysis #AppliedMathematics #ComputationalMathematics #StatisticsStudent #PortfolioProject #DataScience #STEM #Mathematics #NumericalMethods #ExcelSkills #QuantitativeAnalysis
